@@ -3,9 +3,9 @@
 
 - ⏱️ I’m currently working on Android Application [JustInTime](https://play.google.com/store/apps/details?id=com.helloitsmeadm.justintime)
 
-- 👨‍💻 All of my projects are available at [http://www.helloitsmeadm.fun/](http://www.helloitsmeadm.fun/)
+- 👨‍💻 All of my projects are available at [www.helloitsmeadm.fun/](http://www.helloitsmeadm.fun/)
 
-- 📫 How to reach me **@helloitsmeadm**
+- 📫 How to reach me **[@helloitsmeadm](https://www.instagram.com/helloitsmeadm/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
