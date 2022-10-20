@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My name is Vojtěch Adam, alias HelloItsMeAdm.
 - ⏱️ I’m currently working on Android Application [JustInTime](https://play.google.com/store/apps/details?id=com.helloitsmeadm.justintime)
-- 👨‍💻 All my projects are available at [www.helloitsmeadm.fun](https://www.helloitsmeadm.fun/)
+- 👨‍💻 All my projects are available at [www.vojtech-adam.cz](https://www.vojtech-adam.cz/)
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ Hi! My name is Vojtěch Adam, alias HelloItsMeAdm.
 [![](https://visitcount.itsvg.in/api?id=helloitsmeadm&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/helloitsmeadm)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFCE00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/vojtechadam)
