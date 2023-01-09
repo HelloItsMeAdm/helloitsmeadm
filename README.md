@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 👋 About Me:
 Hi! My name is Vojtěch Adam, alias HelloItsMeAdm.
 - ⏱️ I’m currently working on Android Application [JustInTime](https://play.google.com/store/apps/details?id=com.helloitsmeadm.justintime) and more apps such as like [BetterMusic](https://github.com/HelloItsMeAdm/BetterMusic) or [CustomOcto](https://github.com/HelloItsMeAdm/CustomOcto).
 - 👨‍💻 All my projects are available at [www.vojtech-adam.cz](https://www.vojtech-adam.cz/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/HelloItsMeAdm#7708) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helloitsmeadm) [![Photography Instagram](https://img.shields.io/badge/Photography%20Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photographer_vojtech) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14413202) 
 
 # 💻 Tech Stack:
