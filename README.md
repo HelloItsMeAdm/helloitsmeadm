@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi! My name is Vojtěch Adam, alias HelloItsMeAdm.
+Hi! My name is Vojtěch Adam, AKA HelloItsMeAdm.
 - ⏱️ I’m currently working on Android Application [JustInTime](https://play.google.com/store/apps/details?id=com.helloitsmeadm.justintime) and more apps such as like [BetterMusic](https://github.com/HelloItsMeAdm/BetterMusic) or [CustomOcto](https://github.com/HelloItsMeAdm/CustomOcto).
 - 👨‍💻 All my projects are available at [www.vojtech-adam.cz](https://www.vojtech-adam.cz/)
 
